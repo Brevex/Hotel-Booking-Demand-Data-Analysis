@@ -54,13 +54,13 @@ demand, number of canceled reservations and origin of customers</p><br>
 </details>
 
 <details>
-	<summary>missing values</summary><br>
+	<summary>missing values percentage</summary><br>
 	<p>After importing the data, missing values were identified in some columns</p>
 	
-  	children: 0.003% of values are null.
-	country: 0.409% of values are null.
-	agent: 13.686% of values are null.
-	company: 94.307% of values are null.
+  	children: 0.003% 
+	country: 0.409% 
+	agent: 13.686% 
+	company: 94.307%
 </details>
 
 <details>
