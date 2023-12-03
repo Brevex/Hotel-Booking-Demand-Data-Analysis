@@ -74,9 +74,58 @@ demand, number of canceled reservations and origin of customers</p><br>
 <details>
 	<summary>booking percentage</summary><br>
 	<p>Booking percentage by hotel type</p>
-	
-  	children: 4
-	country: 488
+ 	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/booking%20percentage.png">
+</details>
+
+<details>
+	<summary>comparison between canceled and non-cancelled bookings</summary><br>
+	<p>Comparison between the number of canceled and non-cancelled reservations in each type of hotel</p>
+ 	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/cancelled%20bookings%20comparison.png">
+</details>
+
+<details>
+	<summary>annual evolution of bookings</summary><br>
+	<p>Evolution of the number of reservations between 2015 and 2017. Note that only the year 2016 has data for all months</p>
+ 	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/annual%20bookings.png">
+</details>
+
+<details>
+	<summary>customers origin</summary><br>
+	<p>List of the 10 countries where the most customers come from. Note that Portugal is 1st because the hotels in the database are in Portugal.</p>
+
+  	1	PRT	21071
+	2	GBR	9676
+	3	FRA	8481
+	4	ESP	6391
+	5	DEU	6069
+	6	IRL	2543
+	7	ITA	2433
+	8	BEL	1868
+	9	NLD	1717
+	10	USA	1596
+</details>
+
+<details>
+	<summary>months with more demand</summary><br>
+	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/busiest%20months.png">
+</details>
+
+<details>
+	<summary>period of highest price</summary><br>
+	<p>Months when prices are higher. Note that demand for resorts increases significantly during the European summer, making the price increase.</p>
+	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/price%20per%20month.png">
+</details>
+
+<details>
+	<summary>average cancellation per month</summary><br>
+	<p>average number of bookings canceled per month. Note that it is understandable that the months with the highest demand are the ones with the most cancellations.</p>
+	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/73f28799915b4907a54496bf01a4c79b8b4c743e/readme%20images/average%20cancellation.png">
+</details>
+
+<details>
+	<summary>heatmap</summary><br>
+	<p>heat map that aims to relate causes and relationships of certain values in the database.</p>
+	<img src="https://github.com/Brevex/Hotel-Booking-Demand-Data-Analysis/blob/2f5ff87f4032fc4d1483167686796d6aca870696/readme%20images/heatmap.png">
 </details>
 
 <br><h3 align = "center"> - By <a href = "https://www.linkedin.com/in/breno-barbosa-de-oliveira-810866275/" target = "_blank">Breno</a> - </h3>
