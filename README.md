@@ -14,7 +14,7 @@ demand, number of canceled reservations and origin of customers</p><br>
   </a>
 </p>
 
-<br><h2> &#128161; Analysis Result </h2>
+<br><h2> &#128202; Analysis Result </h2>
 
 <br>
 <details>
